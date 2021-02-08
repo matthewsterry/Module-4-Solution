@@ -1,0 +1,1 @@
+!function(o){var e={};e.speak=function(o){console.log("Good Bye "+o)},o.byeSpeaker=e}(window);
